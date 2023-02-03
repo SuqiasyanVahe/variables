@@ -1,0 +1,1 @@
+allert(I AM JAVASCRIPT)
